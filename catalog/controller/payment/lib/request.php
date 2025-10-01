@@ -75,10 +75,6 @@ class Request extends Start {
                 'details'       => (string) $orderData->shipping->details
             ],
             'products' => $orderData->products,
-            'installments'  => array(
-                                    'selected'  => (int) 1,
-                                    'available' => [(int) 0]
-                            ),
             'data'       => [
                 'plugin_version' => $orderData->data->plugin_version,
                 'api' => $orderData->data->api,
