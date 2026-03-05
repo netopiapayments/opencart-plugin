@@ -56,5 +56,5 @@ After this, the technical integration is complete.
 
 The NETOPIA Payments team aims to keep the module compatible with the latest OpenCart versions. For **older OpenCart versions** (e.g. 3.x), check other branches of this repository.
 
-- Tested up to **OpenCart v3.0.3.8** (3.x branch)  
-- Tested up to **PHP 8.0.x**
+- Tested up to **OpenCart v4.0** 
+- Tested up to **PHP 8.2.x**
